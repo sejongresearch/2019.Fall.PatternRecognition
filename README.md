@@ -11,7 +11,7 @@
 ## Syllabus
 | weeks | Lecture | Hand on Labs  | Etc | 
 |:--:|:--:|:--:|:--:|
-| 1-1 | Introduction | | |
+| 1-1 | [Introduction](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) | | |
 | 1-2 | What is a Pattern Recognition | | |
 | 2 | Clustering | | ch.10 |
 | 3 | Clustering | | ch.10 |
