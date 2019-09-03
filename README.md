@@ -1,7 +1,7 @@
 
 ## Introduction
 - [Syllabus](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/Syllabus.pdf)
-- Date: 센106 / The,Thur 12:00-13:30
+- Date: 센106 / Tue,Thur 12:00-13:30
 - Prof: Yukyung Choi (ykchoi@sejong.ac.kr)
 - Hand on Labs: Colab + Python
 - FL(Fliiped Lecture) based lecture
