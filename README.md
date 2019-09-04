@@ -16,6 +16,7 @@
 |:--:|:--:|:--:|:--:|
 | 1-1 | [Introduction](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) | | |
 | 1-2 | What is a Pattern Recognition | | |
+| 필수 |  Python 3 뱃지 이수 | | |
 | 2 | Clustering | | ch.10 |
 | 3 | Clustering | | ch.10 |
 | 4 | SVM | | ch.5 |
