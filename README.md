@@ -5,6 +5,7 @@
 - Prof: Yukyung Choi (ykchoi@sejong.ac.kr)
 - Hand on Labs: Colab + Python
 - FL(Fliiped Lecture) based lecture
+- TA(Teaching Assistant): Taejoo Kim(tjkim@rcv.sejong.ac.kr)*, Namhoon Kim(nhkim@rcv.sejong.ac.kr), Won Jo(jwon@rcv.sejong.ac.kr)
 
 ## Q & A
 - [issues](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues)
