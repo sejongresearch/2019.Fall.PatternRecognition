@@ -12,7 +12,7 @@
 - [issues](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues)
 
 ## Syllabus
-| weeks | Lecture | Hand on Labs  | HW | Etc | 
+| weeks | Lecture | Hand on Labs  | Chapter | Etc | 
 |:--:|:--:|:--:|:--:|:--:|
 | 1-1 | [Introduction](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) | | |
 | 1-2 | What is a Pattern Recognition | | | | 
