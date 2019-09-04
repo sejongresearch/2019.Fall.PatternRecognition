@@ -6,7 +6,7 @@
 - Hand on Labs: Colab + Python
 - FL(Fliiped Lecture) based lecture
 - TA(Teaching Assistant)
-  - Taejoo Kim(tjkim@rcv.sejong.ac.kr)*, Namhoon Kim, Won Jo, Daechan Han
+  - Taejoo Kim(tjkim@rcv.sejong.ac.kr)*,  Jiwon Kim, Namhoon Kim, Won Jo, Daechan Han
 
 ## Q & A
 - [issues](https://github.com/sejongresearch/2019.Fall.AdvancedC/issues)
