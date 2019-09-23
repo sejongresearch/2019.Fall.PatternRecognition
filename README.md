@@ -21,7 +21,7 @@
 |  | Clustring |  | Quiz |  9/24  |
 | 3 | [Clustering](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/AdvancedClustering.pdf) | | ch.10 | | 
 |  | Data Analysis & Image Processing |  | +class |  9/30(Mon) PM7  |
-| FL | [About Github](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/5) | | Quiz | 10/1 |
+| FL | [How to use Github](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/5) | | Quiz | 10/1 |
 | 4 | SVM | | ch.5 | | 
 | 5 | SVM | | ch.5 | | 
 | 6 | Feature Extraction | | ch.8 | | 
