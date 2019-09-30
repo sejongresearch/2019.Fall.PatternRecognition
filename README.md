@@ -20,12 +20,12 @@
 | 3 | [How to use Github](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/5) | | FL | online |
 | 3 | [Clustering](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D-%EA%B5%B0%EC%A7%91%ED%99%94.pdf) | [Kmeans](https://colab.research.google.com/drive/1wj5Tnyz0EMx1Jd4Tnva0LvNXLHXx6QoW) | ch.10 | 9/17, 19 | 
 | 4 | [Clustring Problem](https://colab.research.google.com/drive/1CSaz_sgo_1I88g1wwGkXDqp8qHDbQoK-#scrollTo=-4goKhS6216v) | [Solution](https://colab.research.google.com/drive/1PqgWzhS-5T5YRGfLAAeC3mcoHQ103GDW) | Quiz |  9/24  |
-| 4 | [Clustering](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/AdvancedClustering.pdf) | | ch.10 | 9/26 | 
+| 4 | [Advanced Clustering](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/AdvancedClustering.pdf) | | ch.10 | 9/26 | 
 | 5 | [SIFT & Application](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_20190930.pdf) | [Stitching](https://colab.research.google.com/gist/unizard/e981ceedd1ef2542ed4ffce9b3707f51/imagestitching_example.ipynb) | +class |  9/30(Mon) PM7  |
 | 5 | [Data Analysis and Image Processing](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/11) | | FL | online |
 | 5 | Github Problem |  Solution | Quiz | 10/1 |
 | 6 | SVM | | ch.5 | 10/8 | 
-| 6 | SVM | | ch.5 | 10/10 | 
+| 6 | Advanced SVM | | ch.5 | 10/10 | 
 | 7 | Decision Tree | | ch.6 | | 
 | 8 | Mid. Exam | | | | 
 | 9 | No Lecture (Deview or ICCV) | | | | 
