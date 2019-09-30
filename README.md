@@ -21,7 +21,7 @@
 | 2 | [Clustering](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D-%EA%B5%B0%EC%A7%91%ED%99%94.pdf) | [Kmeans](https://colab.research.google.com/drive/1wj5Tnyz0EMx1Jd4Tnva0LvNXLHXx6QoW) | ch.10 | 9/17, 19 | 
 |  | Clustring |  | Quiz |  9/24  |
 | 3 | [Clustering](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/AdvancedClustering.pdf) | | ch.10 | 9/26 | 
-|  | Data Analysis & Image Processing | [Note](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_20190930.pdf) | +class |  9/30(Mon) PM7  |
+|  | SIFT & Application | [Note](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_20190930.pdf) | +class |  9/30(Mon) PM7  |
 | FL | [Data Analysis and Image Processing](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/11) | |  |  |
 | 4 | SVM | | ch.5 | 10/8 | 
 | 5 | SVM | | ch.5 | 10/10 | 
