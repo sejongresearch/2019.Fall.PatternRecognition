@@ -27,7 +27,7 @@
 | 6 | Feature Extraction | | ch.8 | | 
 | 7 | Decision Tree | | ch.6 | | 
 | 8 | Mid. Exam | | | | 
-| 9 | No Lecture | | | | 
+| 9 | No Lecture (Deview or ICCV) | | | | 
 | 10 | Ensemble | | ch.12 | | 
 | 11 | Sequential Data | | ch.7 | | 
 | 12 | Sequential Data | | ch.7 | | 
