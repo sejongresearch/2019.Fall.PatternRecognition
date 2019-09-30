@@ -33,7 +33,7 @@
 | 12 | Sequential Data | | ch.7 | | 
 | 13 | Feature Selection | | ch.9 | | 
 | 14 | Optimization | | ch.11 | | 
-| 15 | Final Presentation | | | | 
+| 15 | Final Presentation | Kaggle / Leaderboard / Discussion | | | 
 | 16 | Final Exam | | | | 
 
 
