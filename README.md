@@ -27,7 +27,7 @@
 | 6 | SVM | | ch.5 | 10/8 | 
 | 6 | Advanced SVM | | ch.5 | 10/10 | 
 | 7 | Decision Tree | | ch.6 | | 
-| 8 | Mid. Exam | | | | 
+| 8 | Mid. Exam | | | 10/22 | 
 | 9 | No Lecture (Deview or ICCV) | | | | 
 | 10 | Feature Extraction | | ch.8 | | 
 | 10 | Ensemble | | ch.12 | | 
