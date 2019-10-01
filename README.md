@@ -35,7 +35,7 @@
 | 12 | Sequential Data | | ch.7 | | 
 | 13 | Feature Selection | | ch.9 | | 
 | 14 | Optimization | | ch.11 | | 
-| 15 | Final Presentation | Kaggle / Leaderboard / Discussion | | | 
+| 15 | Final Presentation | Kaggle / Leaderboard / Discussion | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/7(리더보드마감), 12/10(발표)  | 
 | 16 | Final Exam | | | | 
 
 
