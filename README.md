@@ -23,7 +23,7 @@
 | 4 | [Advanced Clustering](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/AdvancedClustering.pdf) | | ch.10 | 9/26 | 
 | 5 | [SIFT & Stitching](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_20190930.pdf) | [Problem & Solution](https://colab.research.google.com/gist/unizard/e981ceedd1ef2542ed4ffce9b3707f51/imagestitching_example.ipynb) | +class |  9/30(Mon) PM7  |
 | 5 | [Data Analysis and Image Processing](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/11) | | FL | online |
-| 5 | How to use Github  |  [Problem](https://www.dropbox.com/s/ve5k35yrw9na1wc/2019%ED%95%99%EB%85%84%EB%8F%84%202%ED%95%99%EA%B8%B0%20%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20Quiz2.pdf?dl=0), [Solution](https://github.com/unizard/quiz) | Quiz] | 10/1 |
+| 5 | How to use Github  |  [Problem](https://www.dropbox.com/s/ve5k35yrw9na1wc/2019%ED%95%99%EB%85%84%EB%8F%84%202%ED%95%99%EA%B8%B0%20%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20Quiz2.pdf?dl=0), [Solution](https://github.com/unizard/quiz) | Quiz | 10/1 |
 | 6 | SVM | | ch.5 | 10/8 | 
 | 6 | Advanced SVM | | ch.5 | 10/10 | 
 | 7 | Decision Tree | | ch.6 | | 
