@@ -27,7 +27,7 @@
 | 6 | [SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/Labs/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_2.pdf) | [Labs](https://colab.research.google.com/drive/1tsoflS0rEB_WsRGTdStP3PXGN_a_YWpo)| ch.5 | 10/8 | 
 | 7 | Advanced SVM | | ch.5 | 10/15 | 
 | 7 | Advanced SVM | | ch.5 | 10/17 | 
-| 8 | Mid. Exam | | | 10/18 | 
+| 8 | Mid. Exam | Kmeans & SVM | | 10/18 | 
 | 9 | No Lecture (Deview or ICCV) | | | | 
 | 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 11/4,5,7 | 
 | 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
