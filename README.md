@@ -29,11 +29,10 @@
 | 7 | Advanced SVM | | ch.5 | 10/17 | 
 | 8 | Mid. Exam | | | 10/18 | 
 | 9 | No Lecture (Deview or ICCV) | | | | 
-| 10 | Decision Tree | | ch.6 | | 
-| 11 | Feature Extraction(PCA, Fisher) | | ch.8 | | 
-| 12 | Ensemble | | ch.12 | | 
-| 13 | Feature Selection | | ch.9 | | 
-| 14 | Optimization | | ch.11 | | 
+| 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 11/4,5,7 | 
+| 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
+| 12 | Ensemble |  | ch.12 | 11/19, 22 | 
+| 13 | Optimization | | ch.11(1,2) | 11/26 | 
 | 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/7(리더보드마감), 12/10(발표)  | 
 | 16 | Final Exam | | | | 
 
