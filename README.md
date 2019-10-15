@@ -29,6 +29,7 @@
 | 7 | Advanced SVM | | ch.5 | 10/17 | 
 | 8 | Mid. Exam | [Notice](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/16) | | 10/18 | 
 | 9 | No Lecture (Deview or ICCV) | | | | 
+| 9 |  [How to use Kaggle] | | FL | online |
 | 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 11/4,5,7 | 
 | 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
 | 12 | Ensemble |  | ch.12 | 11/19, 22 | 
