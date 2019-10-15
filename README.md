@@ -25,14 +25,13 @@
 | 5 | [Data Analysis and Image Processing](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/11) | | FL | online |
 | 5 | How to use Github  |  [Problem](https://www.dropbox.com/s/ve5k35yrw9na1wc/2019%ED%95%99%EB%85%84%EB%8F%84%202%ED%95%99%EA%B8%B0%20%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20Quiz2.pdf?dl=0), [Solution](https://github.com/unizard/quiz) | Quiz | 10/1 |
 | 6 | [SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/Labs/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_2.pdf) | [Labs](https://colab.research.google.com/drive/1tsoflS0rEB_WsRGTdStP3PXGN_a_YWpo)| ch.5 | 10/8 | 
-| 6 | Advanced SVM | | ch.5 | 10/10 | 
-| 7 | Decision Tree | | ch.6 | | 
-| 8 | Mid. Exam | | | 10/22 | 
+| 7 | Advanced SVM | | ch.5 | 10/15 | 
+| 7 | Advanced SVM | | ch.5 | 10/17 | 
+| 8 | Mid. Exam | | | 10/18 | 
 | 9 | No Lecture (Deview or ICCV) | | | | 
-| 10 | Feature Extraction | | ch.8 | | 
-| 10 | Ensemble | | ch.12 | | 
-| 11 | Sequential Data | | ch.7 | | 
-| 12 | Sequential Data | | ch.7 | | 
+| 10 | Decision Tree | | ch.6 | | 
+| 11 | Feature Extraction(PCA, Fisher) | | ch.8 | | 
+| 12 | Ensemble | | ch.12 | | 
 | 13 | Feature Selection | | ch.9 | | 
 | 14 | Optimization | | ch.11 | | 
 | 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/7(리더보드마감), 12/10(발표)  | 
