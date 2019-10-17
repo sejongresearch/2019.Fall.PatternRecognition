@@ -26,7 +26,7 @@
 | 5 | How to use Github  |  [Problem](https://www.dropbox.com/s/ve5k35yrw9na1wc/2019%ED%95%99%EB%85%84%EB%8F%84%202%ED%95%99%EA%B8%B0%20%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20Quiz2.pdf?dl=0), [Solution](https://github.com/unizard/quiz) | Quiz | 10/1 |
 | 6 | [SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/Labs/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_2.pdf) | [Labs](https://colab.research.google.com/drive/1tsoflS0rEB_WsRGTdStP3PXGN_a_YWpo)| ch.5 | 10/8 | 
 | 7 | Advanced SVM | | ch.5 | 10/15 | 
-| 7 | Advanced SVM | | ch.5 | 10/17 | 
+| 7 | Advanced SVM | [Labs](https://colab.research.google.com/drive/1ThhDQ29tOrio0k4ZoLq-jv_pMnJJmU4A)| ch.5 | 10/17 | 
 | 8 | Mid. Exam | [Notice](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/16) | | 10/18 | 
 | 9 | No Lecture (Deview or ICCV) | | | | 
 | 9 |  [How to use Kaggle] | | FL | online |
