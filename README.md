@@ -27,7 +27,7 @@
 | 6 | [SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/Labs/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_2.pdf) | [Labs](https://colab.research.google.com/drive/1tsoflS0rEB_WsRGTdStP3PXGN_a_YWpo)| ch.5 | 10/8 | 
 | 7 | Advanced SVM | | ch.5 | 10/15 | 
 | 7 | [Advanced SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_20191017.pdf) | [Labs](https://colab.research.google.com/drive/1ThhDQ29tOrio0k4ZoLq-jv_pMnJJmU4A)| ch.5 | 10/17 | 
-| 8 | Mid. Exam | [Notice](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/16) | | 10/18 | 
+| 8 | Mid. Exam | [Problem](https://www.dropbox.com/s/gcwl423wilkz8kt/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%ED%97%98%EC%A7%80_20191018.pdf?dl=0), [Solution]() | | 10/18 | 
 | 9 | No Lecture | [HW](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/21)| | | 
 | 9 |  [How to use Kaggle] | | FL | online |
 | 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 11/4,5,7 | 
