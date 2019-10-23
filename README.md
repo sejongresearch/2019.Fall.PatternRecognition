@@ -29,6 +29,7 @@
 | 7 | [Advanced SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_20191017.pdf) | [Labs](https://colab.research.google.com/drive/1ThhDQ29tOrio0k4ZoLq-jv_pMnJJmU4A)| ch.5 | 10/17 | 
 | 8 | Mid. Exam | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%ED%97%98%EC%A7%80_20191018.pdf), [Solution]() | | 10/18 | 
 | 9 | No Lecture | [HW](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/21)| | 10/31 | 
+| 9 |  [How to use PANDAS](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/24) | | FL | online (11/5) |
 | 9 |  [How to use Kaggle] | | FL | online |
 | 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 11/4,5,7 | 
 | 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
