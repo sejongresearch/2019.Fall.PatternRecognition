@@ -28,19 +28,17 @@
 | 7 | Advanced SVM | | ch.5 | 10/15 | 
 | 7 | [Advanced SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_20191017.pdf) | [Labs](https://colab.research.google.com/drive/1ThhDQ29tOrio0k4ZoLq-jv_pMnJJmU4A)| ch.5 | 10/17 | 
 | 8 | Mid. Exam | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%ED%97%98%EC%A7%80_20191018.pdf), [Solution]() | | 10/18 | 
-| 9 | No Lecture | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/21)| HW | 10/31 | 
+| 9 | Kaggle I | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/21)| HW | 10/31 | 
 | 9 |  [How to use PANDAS](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/24) | | FL | online (11/04) |
 | 10 | Supplementary Class | About Term Project  |  | 11/4 | 
 | 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 5,7 | 
-| 10 |  [Become a Kaggler](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/27) | | FL | online (11/11) |
+| 11 |  [Become a Kaggler](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/27) | | FL | online (11/11) |
+| 11 | Kaggle II | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/28) | HW | 11/11 |
 | 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
 | 12 | Ensemble |  | ch.12 | 11/19, 22 | 
 | 13 | Optimization | | ch.11(1,2) | 11/26 | 
 | 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/14(리더보드마감), 12/17(발표)  | 
 | 16 | Final Exam | | | 12/10(화)  | 
-
-
-
 
 
 
