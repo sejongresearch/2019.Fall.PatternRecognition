@@ -36,8 +36,8 @@
 | 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
 | 12 | Ensemble |  | ch.12 | 11/19, 22 | 
 | 13 | Optimization | | ch.11(1,2) | 11/26 | 
-| 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/7(리더보드마감), 12/10(발표)  | 
-| 16 | Final Exam | | | | 
+| 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/14(리더보드마감), 12/17(발표)  | 
+| 16 | Final Exam | | | 12/20(금) | 
 
 
 
