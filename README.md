@@ -30,8 +30,9 @@
 | 8 | Mid. Exam | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%ED%97%98%EC%A7%80_20191018.pdf), [Solution]() | | 10/18 | 
 | 9 | No Lecture | [HW](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/21)| | 10/31 | 
 | 9 |  [How to use PANDAS](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/24) | | FL | online (11/04) |
-| 9 |  [How to use Kaggle] | | FL | online |
-| 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 11/4,5,7 | 
+| 9 |  [Become a Kaggler](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/27) | | FL | online (11/11) |
+| 10 | Supplementary Class | About Term Project  |  | 11/4 | 
+| 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 5,7 | 
 | 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
 | 12 | Ensemble |  | ch.12 | 11/19, 22 | 
 | 13 | Optimization | | ch.11(1,2) | 11/26 | 
