@@ -3,7 +3,7 @@
 - [Syllabus](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/Syllabus.pdf)
 - Date: 센106 / Tue,Thur 12:00-13:30
 - Prof: Yukyung Choi (ykchoi@sejong.ac.kr)
-- Hand on Labs: Colab + Python
+- Hand on Labs: Colab + Python, [Book](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/Labs/pythondatasciencehandbook.pdf)
 - FL(Fliiped Lecture) based lecture
 - TA(Teaching Assistant)
   - Taejoo Kim(tjkim@rcv.sejong.ac.kr)*,  Jiwon Kim, Namhoon Kim, Won Jo, Daechan Han
