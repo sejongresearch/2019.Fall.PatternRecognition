@@ -31,7 +31,7 @@
 | 9 | Kaggle I | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/21)| HW | 10/31 | 
 | 9 |  [How to use PANDAS](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/24) | | FL | online (11/04) |
 | 10 | Supplementary Class | About Term Project  |  | 11/4 | 
-| 10 | Decision Tree | DecisionTree, RandomForest | ch.6 | 5,7 | 
+| 10 | Decision Tree | [Labs](https://colab.research.google.com/drive/1o_2REVHmSHieE8rc96KmUH2BeGUuUBo8) | ch.6 | 5,7 | 
 | 11 |  [Become a Kaggler](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/27) | | FL | online (11/11) |
 | 11 | Kaggle II | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/28) | HW | 11/11 |
 | 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
