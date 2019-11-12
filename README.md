@@ -36,7 +36,7 @@
 | 11 |  [Become a Kaggler](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/27) | | FL | online (11/11) |
 | 11 | Kaggle II | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/28) | HW | 11/11 |
 | 11 | Advanced Decition Tree  | [DT](https://colab.research.google.com/drive/1B6ntjZkfueC9esV2kZsh-5b_FqphSmtY), [RF](https://colab.research.google.com/drive/1RcK7j8fNFRsw6j-ExXDkuNemnkM2OS09) | ch.6 | 11/12,14 | 
-| 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/19, 22 | 
+| 12 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/19, 22 | 
 | 13 | Optimization | | ch.11(1,2) | 11/26 | 
 | 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/14(리더보드마감), 12/17(발표)  | 
 | 16 | Final Exam | | | 12/10(화)  | 
