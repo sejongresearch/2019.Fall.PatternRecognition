@@ -32,9 +32,11 @@
 | 9 |  [How to use PANDAS](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/24) | | FL | online (11/04) |
 | 10 | Supplementary Class | About Term Project  |  | 11/4 | 
 | 10 | [Decision Tree](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.pdf) | [Labs](https://colab.research.google.com/drive/1o_2REVHmSHieE8rc96KmUH2BeGUuUBo8) | ch.6 | 11/05 | 
-| 10 | [Advanced Decision Tree](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_II_%EC%B5%9C%EC%A2%85.pdf) | [DT](https://colab.research.google.com/drive/1B6ntjZkfueC9esV2kZsh-5b_FqphSmtY), [RF](https://colab.research.google.com/drive/1RcK7j8fNFRsw6j-ExXDkuNemnkM2OS09) | ch.6 | 11/07 | 
+| 10 | How to use Kaggle | Problem-Mid4,5 |  Quiz | 11/7 | 
+| 10 | [Advanced Decision Tree](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_II_%EC%B5%9C%EC%A2%85.pdf) | [DT](https://colab.research.google.com/drive/1B6ntjZkfueC9esV2kZsh-5b_FqphSmtY), [RF](https://colab.research.google.com/drive/1RcK7j8fNFRsw6j-ExXDkuNemnkM2OS09) | ch.6 | 11/12 | 
 | 11 |  [Become a Kaggler](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/27) | | FL | online (11/11) |
 | 11 | Kaggle II | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/28) | HW | 11/11 |
+| 11 | Advanced Decition Tree  | [Labs]() | ch.6 | 11/12 | 
 | 11 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/12,14 | 
 | 12 | Ensemble |  | ch.12 | 11/19, 22 | 
 | 13 | Optimization | | ch.11(1,2) | 11/26 | 
