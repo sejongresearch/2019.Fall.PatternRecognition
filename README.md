@@ -35,7 +35,7 @@
 | 10 | How to use Kaggle | Problem-Mid4,5 |  Quiz | 11/7 | 
 | 11 |  [Become a Kaggler](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/27) | | FL | online (11/11) |
 | 11 | Kaggle II | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/28) | HW | 11/11 |
-| 11 | Advanced Decition Tree  | [Labs](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/35) | ch.6 | 11/12,14 | 
+| 11 | [Advanced Decition Tree](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4_II.pdf)  | [Labs](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/35) | ch.6 | 11/12,14 | 
 | 12 | Feature Extraction | LDA, PCA, Fisher| ch.8 | 11/19, 22 | 
 | 13 | Optimization | | ch.11(1,2) | 11/26 | 
 | 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/14(리더보드마감), 12/17(발표)  | 
