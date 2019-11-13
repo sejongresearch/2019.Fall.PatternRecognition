@@ -27,7 +27,7 @@
 | 6 | [SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/Labs/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_2.pdf) | [Labs](https://colab.research.google.com/drive/1tsoflS0rEB_WsRGTdStP3PXGN_a_YWpo)| ch.5 | 10/8 | 
 | 7 | Advanced SVM | | ch.5 | 10/15 | 
 | 7 | [Advanced SVM](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_SVM_20191017.pdf) | [Labs](https://colab.research.google.com/drive/1ThhDQ29tOrio0k4ZoLq-jv_pMnJJmU4A)| ch.5 | 10/17 | 
-| 8 | Mid. Exam | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%ED%97%98%EC%A7%80_20191018.pdf), [Solution]() | | 10/18 | 
+| 8 | Mid. Exam | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%ED%97%98%EC%A7%80_20191018.pdf), [Solution](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/33) | | 10/18 | 
 | 9 | Kaggle I | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/21)| HW | 10/31 | 
 | 9 |  [How to use PANDAS](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/24) | | FL | online (11/04) |
 | 10 | Supplementary Class | About Term Project  |  | 11/4 | 
