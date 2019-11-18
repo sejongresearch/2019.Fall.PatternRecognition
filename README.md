@@ -30,7 +30,7 @@
 | 8 | Mid. Exam | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%ED%97%98%EC%A7%80_20191018.pdf), [Solution](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/33) | | 10/18 | 
 | 9 | Kaggle I | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/21)| HW | 10/31 | 
 | 9 |  [How to use PANDAS](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/24) | | FL | online (11/04) |
-| 10 | Supplementary Class | [About Term Project](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_%EB%B3%B4%EC%B6%A9%EC%9E%90%EB%A3%8C_II.pdf)  |  | 11/4 | 
+| 10 | [About Term Project](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_%EB%B3%B4%EC%B6%A9%EC%9E%90%EB%A3%8C_II.pdf)  |  |  | 11/4 | 
 | 10 | [Decision Tree](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.pdf) | [Labs](https://colab.research.google.com/drive/1o_2REVHmSHieE8rc96KmUH2BeGUuUBo8) | ch.6 | 11/05 | 
 | 10 | How to use Kaggle | Problem-Mid4,5 |  Quiz | 11/7 | 
 | 11 |  [Become a Kaggler](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/27) | | FL | online (11/11) |
