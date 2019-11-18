@@ -37,8 +37,9 @@
 | 11 | Kaggle II | [Problem](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/28) | HW | 11/11 |
 | 11 | [Advanced Decition Tree](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4_II.pdf)  | [Labs](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/35) | ch.6 | 11/12,14 | 
 | 12 | [PCA](https://github.com/sejongresearch/2019.Fall.PatternRecognition/blob/master/LectureNote/%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_PCA.pdf) | [PCA](https://colab.research.google.com/drive/11Rqpy_Lyh_9r_GYz2iPKBdA04YTTOXlZ), [EigenFace](https://colab.research.google.com/drive/1crVmQxc4k2TT61xmNsBxpMxljCo4m2q4) | ch.8 | 11/19 | 
-| 12 | Feature Extraction | LDA, Fisher| ch.8 | 11/21 | 
-| 13 | Optimization | | ch.11(1,2) | 11/26 | 
+| 12 | Group meeting with TA | Project |  | 11/21 | 
+| 13 | Feature Extraction | LDA, Fisher| ch.8 | 11/26 | 
+| 13 | Optimization | | ch.11(1,2) | 11/28 | 
 | 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/14(리더보드마감), 12/17(발표)  | 
 | 16 | Final Exam | | | 12/10(화)  | 
 
