@@ -40,7 +40,7 @@
 | 12 | Group meeting with TA | Project |  | 11/21 | 
 | 13 | Feature Extraction | LDA, Fisher| ch.8 | 11/26 | 
 | 13 | Optimization | | ch.11(1,2) | 11/28 | 
-| 15 | Final Presentation | Kaggle-Competition  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/14(리더보드마감), 12/17(발표)  | 
+| 15 | Final Presentation | [Kaggle-Competition](https://www.kaggle.com/c/2019-ml-finalproject/overview)  | [Project Info](https://github.com/sejongresearch/2019.Fall.PatternRecognition/issues/12) | 12/14(리더보드마감), 12/17(발표)  | 
 | 16 | Final Exam | | | 12/10(화)  | 
 
 
